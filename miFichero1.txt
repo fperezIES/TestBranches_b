@@ -1,3 +1,4 @@
 Mi primer fichero en repositorio local.
+Línea conflictiva creada en rama main.
 Otra línea más que guardar.
 Línea adicional añadida en rama prueba.
